@@ -1,2 +1,2 @@
 Line 1 first edit
-second edit
+second editnew line1
